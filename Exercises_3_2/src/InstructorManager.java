@@ -1,5 +1,5 @@
 
-public class InstructorManager {
+public class InstructorManager extends UserManager{
 	
 	public void AddCourse(Instructor instructor) {
 		
